@@ -16,15 +16,20 @@ body {
 
 .content {
   background: #e3f4ff;
+  padding: 30px;
 }
 
 .button-container {
   background: #e3f4ff;
   text-align: center;
   display: block;
+  margin: 10px;
 }
 
 button {
+  
   background: white;
   border: 1px solid #eee;
+  
+  
 }
