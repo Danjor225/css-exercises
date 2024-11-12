@@ -15,6 +15,11 @@ justify-content: center;
 align-items: center; */
 }
 
+.contents{
+  display: flex;
+}
+
+
 /* do not edit this footer */
 .footer {
   position: fixed;
