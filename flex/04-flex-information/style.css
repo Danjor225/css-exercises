@@ -19,7 +19,11 @@ align-items: center; */
   display: flex;
 }
 
-
+.container{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
 /* do not edit this footer */
 .footer {
   position: fixed;
