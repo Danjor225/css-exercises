@@ -8,6 +8,9 @@ body {
   height: 72px;
   background: darkmagenta;
   color: white;
+  font-size: 32px;
+  font-weight: 900;
+
 }
 
 .footer {
@@ -37,8 +40,8 @@ body {
 .card-container{
   display: flex;
   flex-wrap: wrap;
-  gap: 10px;
-  padding: 20px;
+  gap: 48px;
+  padding: 48px;
 
 
 }
